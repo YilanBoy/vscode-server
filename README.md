@@ -6,7 +6,7 @@ You can quickly build a [vscode server](https://code.visualstudio.com/blogs/2022
 
 > **Note**
 >
-> You need to install terraform
+> You need to install terraform and configure AWS IAM
 >
 
 Init the terraform project
